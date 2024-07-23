@@ -1,4 +1,6 @@
-The error i get: Error retrieving the scores. TypeError: User.getUserByHighestScore is not a function
+The error i get: 
+
+Error retrieving the scores. TypeError: User.getUserByHighestScore is not a function
     at getHighestScore (C:\Users\chenj\BedAssignmentCheckpoint2\BEDAssignment\controllers\userController.js:7:49)
     at Layer.handle [as handle_request] (C:\Users\chenj\BedAssignmentCheckpoint2\node_modules\express\lib\router\layer.js:95:5)
     at next (C:\Users\chenj\BedAssignmentCheckpoint2\node_modules\express\lib\router\route.js:149:13)
